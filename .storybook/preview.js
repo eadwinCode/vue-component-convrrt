@@ -1,6 +1,6 @@
 import "../src/plugins"
 import { MainTheme } from "../src/theme/theme";
-import ThemeProvider from "../src/stories/ThemeProvider.vue";
+import ThemeProvider from "../src/ThemeProvider.vue";
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
